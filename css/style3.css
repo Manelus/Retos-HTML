@@ -1,0 +1,26 @@
+.titulo{
+    background-color: orange;
+}
+body{
+    
+    max-width: 400px;
+    width: 100%;
+    margin: 0 auto;
+}
+h2{
+    font-size: 250%;
+    color: rgb(145, 179, 179);
+    font-style: oblique;
+}
+.a{
+    color: rgb(47, 98, 105);
+}
+.b{
+    color: rgb(47, 98, 105);
+}
+.c{
+    color: rgb(28, 56, 59);
+}
+.total{
+    background-color: rosybrown;
+}
