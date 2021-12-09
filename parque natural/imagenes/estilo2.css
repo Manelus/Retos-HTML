@@ -19,3 +19,15 @@
     color: coral;
     font-size: 10px;
 }
+.body{
+   display: flex;
+   flex-direction: row;
+}
+.inicio{
+    background-color: orange;
+    height: 20px;
+    width: 40px;
+}
+.imagen{
+    background-position: center;
+}
