@@ -1,9 +1,14 @@
+.imagen{
+    position: center;
+    width: max-content;
+}
 .parque{
     color: green;
     font-family: serif;
     
 }
 .sierra{
+    position: absolute;
     color: orange;
     font-family: serif;
 }
@@ -28,6 +33,19 @@
     height: 20px;
     width: 40px;
 }
-.imagen{
-    background-position: center;
+.especies{
+    background-color: green;
+    height: 20px;
+    width: 40px;
 }
+.reservas{
+    background-color: green;
+    height: 20px;
+    width: 40px;
+}
+.galeria{
+    background-color: green;
+    height: 20px;
+    width: 40px;
+}
+
